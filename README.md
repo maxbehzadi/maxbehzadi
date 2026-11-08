@@ -145,6 +145,6 @@ I am developing practical AI engineering skills through focused labs and applica
 
 **Interested in full-stack engineering, Applied AI and useful software products.**
 
-[Portfolio](https://maxbehzadi.site) · [LinkedIn](https://www.linkedin.com/in/maxii/) · [GitHub](https://github.com/MaxTheGeeek)
+[Portfolio](https://maxbehzadi.site) · [LinkedIn](https://www.linkedin.com/in/maxii/) · [GitHub](https://github.com/maxbehzadi)
 
 </div>
